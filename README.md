@@ -2,6 +2,8 @@
 
 This repository focuses on mastering Azure compute services using Python and Azure SDK to build, manage, and automate compute infrastructure for Internal Development Platform (IDP) development.
 
+- [References](./REFERENCES.md)
+
 ## 🎯 Learning Objectives
 
 By working through this repository, you will:
